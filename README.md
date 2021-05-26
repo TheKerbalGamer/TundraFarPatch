@@ -8,4 +8,4 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Step 4: Paste it there
 * step 5: launch KSP
 
-# Note this is ONLY BETA and is NOT MEANT to WORK PROPERLY 
+# Note this is ONLY BETA and is NOT MEANT to WORK PROPERLY for now
