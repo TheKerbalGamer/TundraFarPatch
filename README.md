@@ -15,8 +15,6 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Gorjia Mk4 Stage 1(Starship stage 1)
 * Gagian Capsule (Dragon v1)
 * Rodan Capsule (Dragon v2)
-
-# Stuff that need tweaking :
 *  Gorjia Mk 4 stage 2 (Starship stage 2)
-
-# Note this is ONLY BETA and is NOT MEANT to WORK PROPERLY for now
+# Stuff that need tweaking :
+*  None
