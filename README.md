@@ -12,9 +12,8 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Mothra(Falcon 1)
 * Bagorah 9(Falcon 9 Block 1-3)
 * Ghidora 9(Falcon 9 Block 4/5)
-* Gorjia Mk4 Stage 1(Starship stage 1)
 * Gagian Capsule (Dragon v1)
 * Rodan Capsule (Dragon v2)
-*  Gorjia Mk 4 stage 2 (Starship stage 2)
+*  Gorjia Mk 4(Starship)
 # Stuff that need tweaking :
 *  None
