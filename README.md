@@ -8,14 +8,13 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Step 4: Paste it there
 * step 5: launch KSP
 
-# Things that work :
+# Things Included 
 * Mothra(Falcon 1)
-* Bagorah 9(Falcon 9 Block 1-3)
+* Bagorah 9(Falcon 9 Block V1.0)
 * Ghidora 9(Falcon 9 Block 4/5)
 * Gagian Capsule (Dragon v1)
 * Rodan Capsule (Dragon v2)
-* Gorjia Mk 4 S1 (Starship S1)
-# Stuff that need tweaking :
-*  Gorjia Mk 4 S2 (Starship S2)
+* Gorjia Mk 4 (Starship)
 
-# This only BETA 
+
+
