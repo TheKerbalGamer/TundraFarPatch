@@ -14,6 +14,6 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Ghidora 9(Falcon 9 Block 4/5)
 * Gagian Capsule (Dragon v1)
 * Rodan Capsule (Dragon v2)
-* Gorjia Mk 4 (Starship)
+* Starship is not inculed because it has been depricated since TE version 6.0
 
 
