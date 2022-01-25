@@ -8,7 +8,7 @@ This patch make tundra compatible with Ferram Aerospace Research mod.
 * Step 4: Paste it there
 * step 5: launch KSP
 
-# Things Included 
+# This patch applies to :
 * Mothra(Falcon 1)
 * Bagorah 9(Falcon 9 Block V1.0)
 * Ghidora 9(Falcon 9 Block 4/5)
